@@ -1,3 +1,5 @@
+// 시간
+
 const clockContainer = document.querySelector(".js-clock");
 const clockTitle = document.querySelector("h1");
 
