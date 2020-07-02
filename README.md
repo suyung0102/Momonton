@@ -2,7 +2,7 @@
 
 크롬 앱 Momenton의 Clone APP
 
-HTML / CSS / JS
+HTML / CSS / JS 사용
 
 - 실시간 시간 기능(새로고침 X)
 - LOCAL REPOSITORY를 활용한 사용자 정보 저장 기능 (사용자 이름/ 할일)
