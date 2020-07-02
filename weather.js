@@ -30,7 +30,7 @@ function handleGeoSucces(position) {
 }
 
 function handleGeoError() {
-    console.log("실패");
+    console.log("실패!");
 }
 
 function askForCoords() {
