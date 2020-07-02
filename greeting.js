@@ -1,3 +1,5 @@
+// 사용자 이름 저장
+
 const form = document.querySelector(".js-form");
 const input = form.querySelector("input");
 const greeting = document.querySelector(".js-greetings");
