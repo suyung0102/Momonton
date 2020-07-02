@@ -1,3 +1,5 @@
+// 날씨 API 호출 및 저장
+
 const weather = document.querySelector(".js-weather");
 
 const API_KEY = 'ce1e4c0dcaa803e3359f6ac47150e719';
