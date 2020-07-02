@@ -3,8 +3,11 @@ body {
     color: white;
 }
 
-.form,
 .greetings {
+    display: none;
+}
+
+.form {
     display: none;
 }
 
